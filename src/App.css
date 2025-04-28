@@ -1,0 +1,25 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+In App.css */
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background: #f0f0f0;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 8px;
+  width: 150px;
+  text-align: center;
+  font-weight: bold;
+  color: black;
+}
